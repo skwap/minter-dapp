@@ -8,11 +8,11 @@
   --font-primary: "Barlow", sans-serif;
   --font-secondary: "Cabin", serif;
   --font-code: "Cabin+Sketch", monospace;
-  --bg-color: #9eff66;
+  --bg-color: #a5cd94;
   --bg-color-transparent: #ffffff;
   --font-color: #000000;
-  --btn-bg-color: #b82425;
-  --accent-color: #fed500;
+  --btn-bg-color: #f04923;
+  --accent-color: #fbf6b2;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
